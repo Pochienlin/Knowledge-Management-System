@@ -1,0 +1,6 @@
+type: LandingPoint
+
+fields:
+  name: string
+  latitude: string
+  longitude: string
