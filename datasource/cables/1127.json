@@ -1,1 +1,36 @@
-{"type":"cable","rfs":"1992","length":"3,100 km","owners":"France Telecom,  Portugal Telecom,  Maroc Telecom,  Tata Communications,  KPN,  Rostelecom,  Telekom Austria,  BT,  Vodafone","description":"[{\"longitude\":\"-7.611113\",\"name\":\"Casablanca, Morocco\",\"latitude\":\"33.586984\",\"id\":\"3256\"},{\"longitude\":\"-16.905068\",\"name\":\"Funchal, Portugal\",\"latitude\":\"32.647263\",\"id\":\"5935\"},{\"longitude\":\"-9.102760\",\"name\":\"Sesimbra, Portugal\",\"latitude\":\"38.442690\",\"id\":\"5934\"},{\"longitude\":\"-1.945887\",\"name\":\"St. Hilaire, France\",\"latitude\":\"46.720180\",\"id\":\"5834\"}]","url":"n.a.","notes":null,"name":"Eurafrica","id":"1127"}
+{
+  "type": "cable",
+  "rfs": "1992",
+  "length": "3,100 km",
+  "owners": "France Telecom,  Portugal Telecom,  Maroc Telecom,  Tata Communications,  KPN,  Rostelecom,  Telekom Austria,  BT,  Vodafone",
+  "description": [
+    {
+      "id": 3256,
+      "name": "Casablanca, Morocco",
+      "latitude": 33.586984,
+      "longitude": -7.611113
+    },
+    {
+      "id": 5935,
+      "name": "Funchal, Portugal",
+      "latitude": 32.647263,
+      "longitude": -16.905068
+    },
+    {
+      "id": 5934,
+      "name": "Sesimbra, Portugal",
+      "latitude": 38.44269,
+      "longitude": -9.10276
+    },
+    {
+      "id": 5834,
+      "name": "St. Hilaire, France",
+      "latitude": 46.72018,
+      "longitude": -1.945887
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Eurafrica",
+  "id": "1127"
+}

@@ -1,11 +1,19 @@
 import { Registry } from "../core/registry.js";
 import type { ResolvedSchema, FieldDefinition } from "../schema/resolverSchema.js";
+import { createMutations } from "./mutations.js";
 
 export function createResolvers(
   registry: Registry,
-  schemas: Map<string, ResolvedSchema>
+  schemas: Map<string, ResolvedSchema>,
+  rootDir: string
 ) {
   const Query: Record<string, any> = {};
+  const mutationResolvers =
+    createMutations(
+      registry,
+      schemas,
+      rootDir
+    );
 
   // 1. Query resolvers (just return data)
   for (const schema of schemas.values()) {
@@ -28,7 +36,10 @@ export function createResolvers(
     };
   }
 
-  return resolvers;
+  return {
+    Query,
+    ...mutationResolvers
+  };
 }
 
 function createRelationshipResolvers(

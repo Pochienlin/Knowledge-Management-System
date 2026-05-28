@@ -1,1 +1,54 @@
-{"type":"cable","rfs":"October 2000","length":"4,400 km","owners":"Cable & Wireless Communications,  Verizon Business,  Tata Communications,  AT&T,  Sprint,  Hondutel,  CANTV,  Entel Chile,  Telefonica,  BT,  Orbitel,  MarcaTel","description":"[{\"longitude\":\"-86.767566\",\"name\":\"Cancún, Mexico\",\"latitude\":\"21.095660\",\"id\":\"3842\"},{\"longitude\":\"-81.166789\",\"name\":\"Half Moon Bay, Cayman Islands\",\"latitude\":\"19.282977\",\"id\":\"5799\"},{\"longitude\":\"-80.160211\",\"name\":\"Hollywood, Florida, United States\",\"latitude\":\"26.010194\",\"id\":\"3650\"},{\"longitude\":\"-79.753544\",\"name\":\"Maria Chiquita, Panama\",\"latitude\":\"9.437346\",\"id\":\"5928\"},{\"longitude\":\"-87.946056\",\"name\":\"Puerto Cortes, Honduras\",\"latitude\":\"15.844831\",\"id\":\"5851\"},{\"longitude\":\"-83.037697\",\"name\":\"Puerto Limon, Costa Rica\",\"latitude\":\"9.988570\",\"id\":\"5810\"},{\"longitude\":\"-75.558583\",\"name\":\"Tolu, Colombia\",\"latitude\":\"9.496273\",\"id\":\"5808\"}]","url":"http://www.maya-1.com","notes":null,"name":"Maya-1","id":"1071"}
+{
+  "type": "cable",
+  "rfs": "October 2000",
+  "length": "4,400 km",
+  "owners": "Cable & Wireless Communications,  Verizon Business,  Tata Communications,  AT&T,  Sprint,  Hondutel,  CANTV,  Entel Chile,  Telefonica,  BT,  Orbitel,  MarcaTel",
+  "description": [
+    {
+      "id": 3842,
+      "name": "Canc\u00fan, Mexico",
+      "latitude": 21.09566,
+      "longitude": -86.767566
+    },
+    {
+      "id": 5799,
+      "name": "Half Moon Bay, Cayman Islands",
+      "latitude": 19.282977,
+      "longitude": -81.166789
+    },
+    {
+      "id": 3650,
+      "name": "Hollywood, Florida, United States",
+      "latitude": 26.010194,
+      "longitude": -80.160211
+    },
+    {
+      "id": 5928,
+      "name": "Maria Chiquita, Panama",
+      "latitude": 9.437346,
+      "longitude": -79.753544
+    },
+    {
+      "id": 5851,
+      "name": "Puerto Cortes, Honduras",
+      "latitude": 15.844831,
+      "longitude": -87.946056
+    },
+    {
+      "id": 5810,
+      "name": "Puerto Limon, Costa Rica",
+      "latitude": 9.98857,
+      "longitude": -83.037697
+    },
+    {
+      "id": 5808,
+      "name": "Tolu, Colombia",
+      "latitude": 9.496273,
+      "longitude": -75.558583
+    }
+  ],
+  "url": "http://www.maya-1.com",
+  "notes": null,
+  "name": "Maya-1",
+  "id": "1071"
+}

@@ -1,1 +1,48 @@
-{"type":"cable","rfs":"February 2012","length":"4,031 km","owners":"Tata Communications","description":"[{\"longitude\":\"50.214262\",\"name\":\"Al Khobar, Saudi Arabia\",\"latitude\":\"26.286157\",\"id\":\"7729\"},{\"longitude\":\"51.519390\",\"name\":\"Al-Kheesa, Qatar\",\"latitude\":\"25.294336\",\"id\":\"10682\"},{\"longitude\":\"50.575855\",\"name\":\"Amway Island, Bahrain\",\"latitude\":\"26.229037\",\"id\":\"10683\"},{\"longitude\":\"55.308487\",\"name\":\"Dubai, United Arab Emirates\",\"latitude\":\"25.269340\",\"id\":\"3270\"},{\"longitude\":\"56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"latitude\":\"25.121671\",\"id\":\"5962\"},{\"longitude\":\"58.591033\",\"name\":\"Qalhat, Oman\",\"latitude\":\"23.615167\",\"id\":\"10684\"}]","url":"http://www.tatacommunications.com","notes":null,"name":"Tata TGN-Gulf","id":"1631"}
+{
+  "type": "cable",
+  "rfs": "February 2012",
+  "length": "4,031 km",
+  "owners": "Tata Communications",
+  "description": [
+    {
+      "id": 7729,
+      "name": "Al Khobar, Saudi Arabia",
+      "latitude": 26.286157,
+      "longitude": 50.214262
+    },
+    {
+      "id": 10682,
+      "name": "Al-Kheesa, Qatar",
+      "latitude": 25.294336,
+      "longitude": 51.51939
+    },
+    {
+      "id": 10683,
+      "name": "Amway Island, Bahrain",
+      "latitude": 26.229037,
+      "longitude": 50.575855
+    },
+    {
+      "id": 3270,
+      "name": "Dubai, United Arab Emirates",
+      "latitude": 25.26934,
+      "longitude": 55.308487
+    },
+    {
+      "id": 5962,
+      "name": "Fujairah, United Arab Emirates",
+      "latitude": 25.121671,
+      "longitude": 56.333737
+    },
+    {
+      "id": 10684,
+      "name": "Qalhat, Oman",
+      "latitude": 23.615167,
+      "longitude": 58.591033
+    }
+  ],
+  "url": "http://www.tatacommunications.com",
+  "notes": null,
+  "name": "Tata TGN-Gulf",
+  "id": "1631"
+}

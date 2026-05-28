@@ -1,1 +1,30 @@
-{"type":"cable","rfs":"March 1995","length":"1,716 km","owners":"Embratel,  Telefónica de Argentina,  Antel Uruguay,  Entel Chile,  BT,  Telecom Argentina","description":"[{\"longitude\":\"-48.549530\",\"name\":\"Florianópolis, Brazil\",\"latitude\":\"-27.597030\",\"id\":\"3359\"},{\"longitude\":\"-56.695512\",\"name\":\"Las Toninas, Argentina\",\"latitude\":\"-36.472523\",\"id\":\"3330\"},{\"longitude\":\"-54.950189\",\"name\":\"Maldonado, Uruguay\",\"latitude\":\"-34.900367\",\"id\":\"5963\"}]","url":"n.a.","notes":null,"name":"Unisur","id":"1132"}
+{
+  "type": "cable",
+  "rfs": "March 1995",
+  "length": "1,716 km",
+  "owners": "Embratel,  Telef\u00f3nica de Argentina,  Antel Uruguay,  Entel Chile,  BT,  Telecom Argentina",
+  "description": [
+    {
+      "id": 3359,
+      "name": "Florian\u00f3polis, Brazil",
+      "latitude": -27.59703,
+      "longitude": -48.54953
+    },
+    {
+      "id": 3330,
+      "name": "Las Toninas, Argentina",
+      "latitude": -36.472523,
+      "longitude": -56.695512
+    },
+    {
+      "id": 5963,
+      "name": "Maldonado, Uruguay",
+      "latitude": -34.900367,
+      "longitude": -54.950189
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Unisur",
+  "id": "1132"
+}

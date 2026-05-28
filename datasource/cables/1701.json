@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"2011","length":"1,400 km","owners":"Telefonica","description":"[{\"longitude\":\"-6.292734\",\"name\":\"Cádiz, Spain\",\"latitude\":\"36.529520\",\"id\":\"4374\"},{\"longitude\":\"-16.522745\",\"name\":\"Tenerife,  Canary Islands, Spain\",\"latitude\":\"28.292788\",\"id\":\"7713\"}]","url":"n.a.","notes":null,"name":"Pencan-8","id":"1701"}
+{
+  "type": "cable",
+  "rfs": "2011",
+  "length": "1,400 km",
+  "owners": "Telefonica",
+  "description": [
+    {
+      "id": 4374,
+      "name": "C\u00e1diz, Spain",
+      "latitude": 36.52952,
+      "longitude": -6.292734
+    },
+    {
+      "id": 7713,
+      "name": "Tenerife,  Canary Islands, Spain",
+      "latitude": 28.292788,
+      "longitude": -16.522745
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Pencan-8",
+  "id": "1701"
+}

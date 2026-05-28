@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"2000","length":"20 km","owners":"TeliaSonera","description":"[{\"longitude\":\"11.212506\",\"name\":\"Puttgarden, Germany\",\"latitude\":\"54.496037\",\"id\":\"5839\"},{\"longitude\":\"11.358669\",\"name\":\"Rodbyhavn, Denmark\",\"latitude\":\"54.663080\",\"id\":\"5814\"}]","url":"n.a.","notes":null,"name":"Fehmarn Bält","id":"1336"}
+{
+  "type": "cable",
+  "rfs": "2000",
+  "length": "20 km",
+  "owners": "TeliaSonera",
+  "description": [
+    {
+      "id": 5839,
+      "name": "Puttgarden, Germany",
+      "latitude": 54.496037,
+      "longitude": 11.212506
+    },
+    {
+      "id": 5814,
+      "name": "Rodbyhavn, Denmark",
+      "latitude": 54.66308,
+      "longitude": 11.358669
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Fehmarn B\u00e4lt",
+  "id": "1336"
+}

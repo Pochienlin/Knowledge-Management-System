@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"1994","length":"93 km","owners":"TeliaSonera","description":"[{\"longitude\":\"20.262973\",\"name\":\"Umeå, Sweden\",\"latitude\":\"63.825880\",\"id\":\"6004\"},{\"longitude\":\"21.616387\",\"name\":\"Vaasa, Finland\",\"latitude\":\"63.095165\",\"id\":\"5052\"}]","url":"n.a.","notes":null,"name":"Botnia","id":"1271"}
+{
+  "type": "cable",
+  "rfs": "1994",
+  "length": "93 km",
+  "owners": "TeliaSonera",
+  "description": [
+    {
+      "id": 6004,
+      "name": "Ume\u00e5, Sweden",
+      "latitude": 63.82588,
+      "longitude": 20.262973
+    },
+    {
+      "id": 5052,
+      "name": "Vaasa, Finland",
+      "latitude": 63.095165,
+      "longitude": 21.616387
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Botnia",
+  "id": "1271"
+}

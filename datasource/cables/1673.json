@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"2014","length":"4,600 km","owners":"Hibernia Networks","description":"[{\"longitude\":\"-3.010890\",\"name\":\"Brean, United Kingdom\",\"latitude\":\"51.293699\",\"id\":\"5736\"},{\"longitude\":\"-63.573962\",\"name\":\"Halifax, Nova Scotia, Canada\",\"latitude\":\"44.645788\",\"id\":\"3640\"}]","url":"http://www.hibernianetworks.com","notes":null,"name":"Hibernia Express","id":"1673"}
+{
+  "type": "cable",
+  "rfs": "2014",
+  "length": "4,600 km",
+  "owners": "Hibernia Networks",
+  "description": [
+    {
+      "id": 5736,
+      "name": "Brean, United Kingdom",
+      "latitude": 51.293699,
+      "longitude": -3.01089
+    },
+    {
+      "id": 3640,
+      "name": "Halifax, Nova Scotia, Canada",
+      "latitude": 44.645788,
+      "longitude": -63.573962
+    }
+  ],
+  "url": "http://www.hibernianetworks.com",
+  "notes": null,
+  "name": "Hibernia Express",
+  "id": "1673"
+}

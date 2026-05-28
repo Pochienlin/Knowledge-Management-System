@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"n.a.","length":"n.a.","owners":"Telebras,  IslaLink","description":"[{\"longitude\":\"-38.542979\",\"name\":\"Fortaleza, Brazil\",\"latitude\":\"-3.718838\",\"id\":\"3347\"},{\"longitude\":\"-16.522745\",\"name\":\"Tenerife,  Canary Islands, Spain\",\"latitude\":\"28.292788\",\"id\":\"7713\"}]","url":"http://www.telebras.com.br","notes":null,"name":"South Atlantic Cable System (SACS)-Europe","id":"1725"}
+{
+  "type": "cable",
+  "rfs": "n.a.",
+  "length": "n.a.",
+  "owners": "Telebras,  IslaLink",
+  "description": [
+    {
+      "id": 3347,
+      "name": "Fortaleza, Brazil",
+      "latitude": -3.718838,
+      "longitude": -38.542979
+    },
+    {
+      "id": 7713,
+      "name": "Tenerife,  Canary Islands, Spain",
+      "latitude": 28.292788,
+      "longitude": -16.522745
+    }
+  ],
+  "url": "http://www.telebras.com.br",
+  "notes": null,
+  "name": "South Atlantic Cable System (SACS)-Europe",
+  "id": "1725"
+}

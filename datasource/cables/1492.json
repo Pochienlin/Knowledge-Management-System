@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"2003","length":"239 km","owners":"Telstra","description":"[{\"longitude\":\"145.729538\",\"name\":\"Inverloch, Australia\",\"latitude\":\"-38.633448\",\"id\":\"7860\"},{\"longitude\":\"145.294060\",\"name\":\"Stanley, Australia\",\"latitude\":\"-40.760443\",\"id\":\"7861\"}]","url":"n.a.","notes":null,"name":"Bass Strait-2","id":"1492"}
+{
+  "type": "cable",
+  "rfs": "2003",
+  "length": "239 km",
+  "owners": "Telstra",
+  "description": [
+    {
+      "id": 7860,
+      "name": "Inverloch, Australia",
+      "latitude": -38.633448,
+      "longitude": 145.729538
+    },
+    {
+      "id": 7861,
+      "name": "Stanley, Australia",
+      "latitude": -40.760443,
+      "longitude": 145.29406
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Bass Strait-2",
+  "id": "1492"
+}

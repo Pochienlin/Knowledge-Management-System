@@ -1,1 +1,36 @@
-{"type":"cable","rfs":"March 2015","length":"9,934 km","owners":"WASACE Cable Company","description":"[{\"longitude\":\"7.166619\",\"name\":\"Bonny, Nigeria\",\"latitude\":\"4.433368\",\"id\":\"5922\"},{\"longitude\":\"18.421981\",\"name\":\"Cape Town, South Africa\",\"latitude\":\"-33.919086\",\"id\":\"3921\"},{\"longitude\":\"3.423247\",\"name\":\"Lagos, Nigeria\",\"latitude\":\"6.438895\",\"id\":\"3280\"},{\"longitude\":\"-35.210942\",\"name\":\"Natal, Brazil\",\"latitude\":\"-5.794435\",\"id\":\"3354\"}]","url":"http://www.wasace.com","notes":null,"name":"WASACE Africa","id":"1721"}
+{
+  "type": "cable",
+  "rfs": "March 2015",
+  "length": "9,934 km",
+  "owners": "WASACE Cable Company",
+  "description": [
+    {
+      "id": 5922,
+      "name": "Bonny, Nigeria",
+      "latitude": 4.433368,
+      "longitude": 7.166619
+    },
+    {
+      "id": 3921,
+      "name": "Cape Town, South Africa",
+      "latitude": -33.919086,
+      "longitude": 18.421981
+    },
+    {
+      "id": 3280,
+      "name": "Lagos, Nigeria",
+      "latitude": 6.438895,
+      "longitude": 3.423247
+    },
+    {
+      "id": 3354,
+      "name": "Natal, Brazil",
+      "latitude": -5.794435,
+      "longitude": -35.210942
+    }
+  ],
+  "url": "http://www.wasace.com",
+  "notes": null,
+  "name": "WASACE Africa",
+  "id": "1721"
+}

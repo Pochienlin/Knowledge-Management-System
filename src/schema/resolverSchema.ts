@@ -2,8 +2,9 @@ import type { SchemaDefinition } from '../loader/scan.js';
 // ------------- This boi resolves inheritance and understands them schema.yaml files inside the datasource folder
 export type ResolvedSchema = {
   type: string;
-  fields: Record<string, FieldDefinition>,
   extends?: string;
+  directory: string;
+  fields: Record<string, FieldDefinition>;
 };
 
 export type FieldDefinition = {
@@ -48,6 +49,7 @@ export function resolveSchemas(
     const finalSchema: ResolvedSchema = {
         type: schema.type,
         fields: mergedFields,
+        directory: schema.directory,
         ...(schema.extends ? { extends: schema.extends } : {})
     };
 

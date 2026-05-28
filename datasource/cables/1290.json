@@ -1,1 +1,90 @@
-{"type":"cable","rfs":"September 1995","length":"1,730 km","owners":"France Telecom,  Cable & Wireless Communications,  AT&T,  BT,  Verizon Business,  Sprint,  CANTV,  Guyana Telephone and Telegraph (GT&T),  Codetel","description":"[{\"longitude\":\"-62.731215\",\"name\":\"Basseterre, Saint Kitts and Nevis\",\"latitude\":\"17.298431\",\"id\":\"4356\"},{\"longitude\":\"-59.613354\",\"name\":\"Bridgetown, Barbados\",\"latitude\":\"13.098953\",\"id\":\"4202\"},{\"longitude\":\"-61.006822\",\"name\":\"Castries, Saint Lucia\",\"latitude\":\"13.994202\",\"id\":\"4207\"},{\"longitude\":\"-61.650803\",\"name\":\"Chaguaramas, Trinidad and Tobago\",\"latitude\":\"10.686157\",\"id\":\"8838\"},{\"longitude\":\"-61.715352\",\"name\":\"Kingston, Grenada\",\"latitude\":\"12.185233\",\"id\":\"6077\"},{\"longitude\":\"-61.254677\",\"name\":\"Kingstown, Saint Vincent and the Grenadines\",\"latitude\":\"13.187895\",\"id\":\"4219\"},{\"longitude\":\"-61.094259\",\"name\":\"Le Lamentin, Martinique\",\"latitude\":\"14.615495\",\"id\":\"5905\"},{\"longitude\":\"-62.215729\",\"name\":\"Plymouth, Montserrat\",\"latitude\":\"16.706551\",\"id\":\"4355\"},{\"longitude\":\"-61.533099\",\"name\":\"Pointe-a-Pitre, Guadeloupe\",\"latitude\":\"16.241058\",\"id\":\"4906\"},{\"longitude\":\"-61.370724\",\"name\":\"Roseau, Dominica\",\"latitude\":\"15.251746\",\"id\":\"4260\"},{\"longitude\":\"-63.073735\",\"name\":\"Saint Maarten, Netherlands Antilles\",\"latitude\":\"18.031054\",\"id\":\"3188\"},{\"longitude\":\"-61.857951\",\"name\":\"St. John’s, Antigua and Barbuda\",\"latitude\":\"17.051480\",\"id\":\"4239\"},{\"longitude\":\"-63.057221\",\"name\":\"The Valley, Anguilla\",\"latitude\":\"18.217372\",\"id\":\"4195\"}]","url":"n.a.","notes":null,"name":"Eastern Caribbean Fiber System (ECFS)","id":"1290"}
+{
+  "type": "cable",
+  "rfs": "September 1995",
+  "length": "1,730 km",
+  "owners": "France Telecom,  Cable & Wireless Communications,  AT&T,  BT,  Verizon Business,  Sprint,  CANTV,  Guyana Telephone and Telegraph (GT&T),  Codetel",
+  "description": [
+    {
+      "id": 4356,
+      "name": "Basseterre, Saint Kitts and Nevis",
+      "latitude": 17.298431,
+      "longitude": -62.731215
+    },
+    {
+      "id": 4202,
+      "name": "Bridgetown, Barbados",
+      "latitude": 13.098953,
+      "longitude": -59.613354
+    },
+    {
+      "id": 4207,
+      "name": "Castries, Saint Lucia",
+      "latitude": 13.994202,
+      "longitude": -61.006822
+    },
+    {
+      "id": 8838,
+      "name": "Chaguaramas, Trinidad and Tobago",
+      "latitude": 10.686157,
+      "longitude": -61.650803
+    },
+    {
+      "id": 6077,
+      "name": "Kingston, Grenada",
+      "latitude": 12.185233,
+      "longitude": -61.715352
+    },
+    {
+      "id": 4219,
+      "name": "Kingstown, Saint Vincent and the Grenadines",
+      "latitude": 13.187895,
+      "longitude": -61.254677
+    },
+    {
+      "id": 5905,
+      "name": "Le Lamentin, Martinique",
+      "latitude": 14.615495,
+      "longitude": -61.094259
+    },
+    {
+      "id": 4355,
+      "name": "Plymouth, Montserrat",
+      "latitude": 16.706551,
+      "longitude": -62.215729
+    },
+    {
+      "id": 4906,
+      "name": "Pointe-a-Pitre, Guadeloupe",
+      "latitude": 16.241058,
+      "longitude": -61.533099
+    },
+    {
+      "id": 4260,
+      "name": "Roseau, Dominica",
+      "latitude": 15.251746,
+      "longitude": -61.370724
+    },
+    {
+      "id": 3188,
+      "name": "Saint Maarten, Netherlands Antilles",
+      "latitude": 18.031054,
+      "longitude": -63.073735
+    },
+    {
+      "id": 4239,
+      "name": "St. John\u2019s, Antigua and Barbuda",
+      "latitude": 17.05148,
+      "longitude": -61.857951
+    },
+    {
+      "id": 4195,
+      "name": "The Valley, Anguilla",
+      "latitude": 18.217372,
+      "longitude": -63.057221
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Eastern Caribbean Fiber System (ECFS)",
+  "id": "1290"
+}

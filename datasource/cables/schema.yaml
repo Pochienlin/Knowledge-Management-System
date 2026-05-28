@@ -8,7 +8,7 @@ fields:
   url: string
   notes: string
 
-  landingPoints:
+  description:
     type: LandingPoint
     array: true
     key: id

@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"2000","length":"1,854 km","owners":"Telefonica","description":"[{\"longitude\":\"-6.087192\",\"name\":\"Conil, Spain\",\"latitude\":\"36.276545\",\"id\":\"5944\"},{\"longitude\":\"-16.538606\",\"name\":\"El Médano,  Canary Islands, Spain\",\"latitude\":\"28.046639\",\"id\":\"5722\"}]","url":"n.a.","notes":null,"name":"Pencan-6","id":"1448"}
+{
+  "type": "cable",
+  "rfs": "2000",
+  "length": "1,854 km",
+  "owners": "Telefonica",
+  "description": [
+    {
+      "id": 5944,
+      "name": "Conil, Spain",
+      "latitude": 36.276545,
+      "longitude": -6.087192
+    },
+    {
+      "id": 5722,
+      "name": "El M\u00e9dano,  Canary Islands, Spain",
+      "latitude": 28.046639,
+      "longitude": -16.538606
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Pencan-6",
+  "id": "1448"
+}

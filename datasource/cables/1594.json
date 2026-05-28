@@ -1,1 +1,30 @@
-{"type":"cable","rfs":"November 2009","length":"1,060 km","owners":"France Telecom,  Mauritius Telecom,  Orange Madagascar","description":"[{\"longitude\":\"55.549917\",\"name\":\"Sainte Marie, Réunion\",\"latitude\":\"-20.897319\",\"id\":\"9399\"},{\"longitude\":\"57.510069\",\"name\":\"Terre Rouge, Mauritius\",\"latitude\":\"-20.077862\",\"id\":\"9400\"},{\"longitude\":\"49.400326\",\"name\":\"Toamasina, Madagascar\",\"latitude\":\"-18.146221\",\"id\":\"9398\"}]","url":"http://lion.orange.com","notes":null,"name":"Lower Indian Ocean Network (LION)","id":"1594"}
+{
+  "type": "cable",
+  "rfs": "November 2009",
+  "length": "1,060 km",
+  "owners": "France Telecom,  Mauritius Telecom,  Orange Madagascar",
+  "description": [
+    {
+      "id": 9399,
+      "name": "Sainte Marie, R\u00e9union",
+      "latitude": -20.897319,
+      "longitude": 55.549917
+    },
+    {
+      "id": 9400,
+      "name": "Terre Rouge, Mauritius",
+      "latitude": -20.077862,
+      "longitude": 57.510069
+    },
+    {
+      "id": 9398,
+      "name": "Toamasina, Madagascar",
+      "latitude": -18.146221,
+      "longitude": 49.400326
+    }
+  ],
+  "url": "http://lion.orange.com",
+  "notes": null,
+  "name": "Lower Indian Ocean Network (LION)",
+  "id": "1594"
+}

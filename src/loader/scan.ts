@@ -53,7 +53,7 @@ export async function scanDatasource(rootDir: string): Promise<ScanResult> {
             parseField(value)
             ])
         ),
-        directory: dir
+        directory: path.relative(rootDir, dir)
         };
 
       schemas.set(schema.type, schema);

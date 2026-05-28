@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"April 2012","length":"2,700 km","owners":"France Telecom,  Mauritius Telecom,  Orange Madagascar,  Telkom Kenya,  Société réunionnaise du radiotéléphone,  Emtel,  STOI","description":"[{\"longitude\":\"45.165913\",\"name\":\"Kaweni, Mayotte\",\"latitude\":\"-12.817090\",\"id\":\"10123\"},{\"longitude\":\"39.700055\",\"name\":\"Nyali, Kenya\",\"latitude\":\"-4.050416\",\"id\":\"10122\"}]","url":"n.a.","notes":null,"name":"Lower Indian Ocean Network 2 (LION2)","id":"1667"}
+{
+  "type": "cable",
+  "rfs": "April 2012",
+  "length": "2,700 km",
+  "owners": "France Telecom,  Mauritius Telecom,  Orange Madagascar,  Telkom Kenya,  Soci\u00e9t\u00e9 r\u00e9unionnaise du radiot\u00e9l\u00e9phone,  Emtel,  STOI",
+  "description": [
+    {
+      "id": 10123,
+      "name": "Kaweni, Mayotte",
+      "latitude": -12.81709,
+      "longitude": 45.165913
+    },
+    {
+      "id": 10122,
+      "name": "Nyali, Kenya",
+      "latitude": -4.050416,
+      "longitude": 39.700055
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Lower Indian Ocean Network 2 (LION2)",
+  "id": "1667"
+}

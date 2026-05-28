@@ -1,1 +1,30 @@
-{"type":"cable","rfs":"2011","length":"3,400 km","owners":"Reliance Globalcom","description":"[{\"longitude\":\"29.889861\",\"name\":\"Alexandria, Egypt\",\"latitude\":\"31.191856\",\"id\":\"6044\"},{\"longitude\":\"32.575608\",\"name\":\"Anatoliko, Cyprus\",\"latitude\":\"34.692643\",\"id\":\"10384\"},{\"longitude\":\"5.372607\",\"name\":\"Marseille, France\",\"latitude\":\"43.293177\",\"id\":\"3210\"}]","url":"http://www.relianceglobalcom.com","notes":null,"name":"Hawk","id":"1523"}
+{
+  "type": "cable",
+  "rfs": "2011",
+  "length": "3,400 km",
+  "owners": "Reliance Globalcom",
+  "description": [
+    {
+      "id": 6044,
+      "name": "Alexandria, Egypt",
+      "latitude": 31.191856,
+      "longitude": 29.889861
+    },
+    {
+      "id": 10384,
+      "name": "Anatoliko, Cyprus",
+      "latitude": 34.692643,
+      "longitude": 32.575608
+    },
+    {
+      "id": 3210,
+      "name": "Marseille, France",
+      "latitude": 43.293177,
+      "longitude": 5.372607
+    }
+  ],
+  "url": "http://www.relianceglobalcom.com",
+  "notes": null,
+  "name": "Hawk",
+  "id": "1523"
+}

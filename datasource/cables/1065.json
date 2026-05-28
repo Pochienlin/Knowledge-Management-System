@@ -1,1 +1,30 @@
-{"type":"cable","rfs":"March 1999","length":"2,600 km","owners":"Telecom Italia Sparkle","description":"[{\"longitude\":\"12.591318\",\"name\":\"Mazara del Vallo, Italy\",\"latitude\":\"37.650037\",\"id\":\"3215\"},{\"longitude\":\"34.769661\",\"name\":\"Tel Aviv, Israel\",\"latitude\":\"32.044642\",\"id\":\"3213\"},{\"longitude\":\"32.466588\",\"name\":\"Yeroskipos, Cyprus\",\"latitude\":\"34.766427\",\"id\":\"5811\"}]","url":"http://www.mednautilus.com","notes":null,"name":"Lev Submarine System","id":"1065"}
+{
+  "type": "cable",
+  "rfs": "March 1999",
+  "length": "2,600 km",
+  "owners": "Telecom Italia Sparkle",
+  "description": [
+    {
+      "id": 3215,
+      "name": "Mazara del Vallo, Italy",
+      "latitude": 37.650037,
+      "longitude": 12.591318
+    },
+    {
+      "id": 3213,
+      "name": "Tel Aviv, Israel",
+      "latitude": 32.044642,
+      "longitude": 34.769661
+    },
+    {
+      "id": 5811,
+      "name": "Yeroskipos, Cyprus",
+      "latitude": 34.766427,
+      "longitude": 32.466588
+    }
+  ],
+  "url": "http://www.mednautilus.com",
+  "notes": null,
+  "name": "Lev Submarine System",
+  "id": "1065"
+}

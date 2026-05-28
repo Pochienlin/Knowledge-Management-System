@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"September 2000","length":"112 km","owners":"Level 3","description":"[{\"longitude\":\"1.439455\",\"name\":\"Broadstairs, United Kingdom\",\"latitude\":\"51.358850\",\"id\":\"6033\"},{\"longitude\":\"2.912630\",\"name\":\"Ostend, Belgium\",\"latitude\":\"51.231159\",\"id\":\"5789\"}]","url":"n.a.","notes":null,"name":"Tangerine","id":"1324"}
+{
+  "type": "cable",
+  "rfs": "September 2000",
+  "length": "112 km",
+  "owners": "Level 3",
+  "description": [
+    {
+      "id": 6033,
+      "name": "Broadstairs, United Kingdom",
+      "latitude": 51.35885,
+      "longitude": 1.439455
+    },
+    {
+      "id": 5789,
+      "name": "Ostend, Belgium",
+      "latitude": 51.231159,
+      "longitude": 2.91263
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Tangerine",
+  "id": "1324"
+}

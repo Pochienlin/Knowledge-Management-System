@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"Q4 2014","length":"n.a.","owners":"n.a.","description":"[{\"longitude\":\"174.770419\",\"name\":\"Auckland, New Zealand\",\"latitude\":\"-36.884410\",\"id\":\"3319\"},{\"longitude\":\"151.207040\",\"name\":\"Sydney, Australia\",\"latitude\":\"-33.869897\",\"id\":\"3030\"}]","url":"n.a.","notes":null,"name":"Tasman Global Access (TGA) Cable","id":"1750"}
+{
+  "type": "cable",
+  "rfs": "Q4 2014",
+  "length": "n.a.",
+  "owners": "n.a.",
+  "description": [
+    {
+      "id": 3319,
+      "name": "Auckland, New Zealand",
+      "latitude": -36.88441,
+      "longitude": 174.770419
+    },
+    {
+      "id": 3030,
+      "name": "Sydney, Australia",
+      "latitude": -33.869897,
+      "longitude": 151.20704
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Tasman Global Access (TGA) Cable",
+  "id": "1750"
+}

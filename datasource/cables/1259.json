@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"1989","length":"5 km","owners":"TDC,  TeliaSonera","description":"[{\"longitude\":\"12.695820\",\"name\":\"Helsingborg, Sweden\",\"latitude\":\"56.043799\",\"id\":\"3268\"},{\"longitude\":\"12.300799\",\"name\":\"Hillerød, Denmark\",\"latitude\":\"55.927853\",\"id\":\"5992\"}]","url":"n.a.","notes":null,"name":"Denmark-Sweden 15","id":"1259"}
+{
+  "type": "cable",
+  "rfs": "1989",
+  "length": "5 km",
+  "owners": "TDC,  TeliaSonera",
+  "description": [
+    {
+      "id": 3268,
+      "name": "Helsingborg, Sweden",
+      "latitude": 56.043799,
+      "longitude": 12.69582
+    },
+    {
+      "id": 5992,
+      "name": "Hiller\u00f8d, Denmark",
+      "latitude": 55.927853,
+      "longitude": 12.300799
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Denmark-Sweden 15",
+  "id": "1259"
+}

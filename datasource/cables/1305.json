@@ -1,1 +1,24 @@
-{"type":"cable","rfs":"September 1995","length":"230 km","owners":"Cytaglobal,  Lebanese Ministry of Telecommunications,  OTE,  AT&T,  BT,  Deutsche Telekom,  France Telecom,  Telekom Austria,  Syrian Telecommunications Establishment,  Telecom Italia Sparkle,  Tata Communications","description":"[{\"longitude\":\"35.485217\",\"name\":\"Beirut, Lebanon\",\"latitude\":\"33.892460\",\"id\":\"3862\"},{\"longitude\":\"33.603568\",\"name\":\"Pentaskhinos, Cyprus\",\"latitude\":\"34.828466\",\"id\":\"5812\"}]","url":"n.a.","notes":null,"name":"CADMOS","id":"1305"}
+{
+  "type": "cable",
+  "rfs": "September 1995",
+  "length": "230 km",
+  "owners": "Cytaglobal,  Lebanese Ministry of Telecommunications,  OTE,  AT&T,  BT,  Deutsche Telekom,  France Telecom,  Telekom Austria,  Syrian Telecommunications Establishment,  Telecom Italia Sparkle,  Tata Communications",
+  "description": [
+    {
+      "id": 3862,
+      "name": "Beirut, Lebanon",
+      "latitude": 33.89246,
+      "longitude": 35.485217
+    },
+    {
+      "id": 5812,
+      "name": "Pentaskhinos, Cyprus",
+      "latitude": 34.828466,
+      "longitude": 33.603568
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "CADMOS",
+  "id": "1305"
+}

@@ -1,1 +1,60 @@
-{"type":"cable","rfs":"April 2012","length":"1,253 km","owners":"Dhiraagu","description":"[{\"longitude\":\"72.955573\",\"name\":\"Dhangethi, Maldives\",\"latitude\":\"3.608089\",\"id\":\"10813\"},{\"longitude\":\"73.070817\",\"name\":\"Eydhafushi, Maldives\",\"latitude\":\"5.103249\",\"id\":\"10812\"},{\"longitude\":\"73.426889\",\"name\":\"Fuvahmulah, Maldives\",\"latitude\":\"-0.298361\",\"id\":\"10817\"},{\"longitude\":\"73.455499\",\"name\":\"Gahdhoo, Maldives\",\"latitude\":\"0.288801\",\"id\":\"10815\"},{\"longitude\":\"73.544643\",\"name\":\"Gan, Maldives\",\"latitude\":\"1.918580\",\"id\":\"10814\"},{\"longitude\":\"73.089188\",\"name\":\"Hithadhoo, Maldives\",\"latitude\":\"-0.606046\",\"id\":\"10816\"},{\"longitude\":\"73.540226\",\"name\":\"Hulhumale, Maldives\",\"latitude\":\"4.211915\",\"id\":\"9215\"},{\"longitude\":\"73.071420\",\"name\":\"Kulhudhufushi, Maldives\",\"latitude\":\"6.622502\",\"id\":\"10811\"}]","url":"http://www.dhiraagu.com.mv","notes":null,"name":"Dhiraagu Cable Network","id":"1746"}
+{
+  "type": "cable",
+  "rfs": "April 2012",
+  "length": "1,253 km",
+  "owners": "Dhiraagu",
+  "description": [
+    {
+      "id": 10813,
+      "name": "Dhangethi, Maldives",
+      "latitude": 3.608089,
+      "longitude": 72.955573
+    },
+    {
+      "id": 10812,
+      "name": "Eydhafushi, Maldives",
+      "latitude": 5.103249,
+      "longitude": 73.070817
+    },
+    {
+      "id": 10817,
+      "name": "Fuvahmulah, Maldives",
+      "latitude": -0.298361,
+      "longitude": 73.426889
+    },
+    {
+      "id": 10815,
+      "name": "Gahdhoo, Maldives",
+      "latitude": 0.288801,
+      "longitude": 73.455499
+    },
+    {
+      "id": 10814,
+      "name": "Gan, Maldives",
+      "latitude": 1.91858,
+      "longitude": 73.544643
+    },
+    {
+      "id": 10816,
+      "name": "Hithadhoo, Maldives",
+      "latitude": -0.606046,
+      "longitude": 73.089188
+    },
+    {
+      "id": 9215,
+      "name": "Hulhumale, Maldives",
+      "latitude": 4.211915,
+      "longitude": 73.540226
+    },
+    {
+      "id": 10811,
+      "name": "Kulhudhufushi, Maldives",
+      "latitude": 6.622502,
+      "longitude": 73.07142
+    }
+  ],
+  "url": "http://www.dhiraagu.com.mv",
+  "notes": null,
+  "name": "Dhiraagu Cable Network",
+  "id": "1746"
+}

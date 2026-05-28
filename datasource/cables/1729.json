@@ -1,1 +1,36 @@
-{"type":"cable","rfs":"April 2005","length":"634 km","owners":"Regione Sardegne,  Interoute,  Wind,  Tiscali","description":"[{\"longitude\":\"9.109404\",\"name\":\"Cagliari, Italy\",\"latitude\":\"39.215367\",\"id\":\"3162\"},{\"longitude\":\"11.796857\",\"name\":\"Civitavecchia, Italy\",\"latitude\":\"42.091146\",\"id\":\"7751\"},{\"longitude\":\"12.591318\",\"name\":\"Mazara del Vallo, Italy\",\"latitude\":\"37.650037\",\"id\":\"3215\"},{\"longitude\":\"9.486858\",\"name\":\"Olbia, Italy\",\"latitude\":\"40.922544\",\"id\":\"8592\"}]","url":"n.a.","notes":null,"name":"Janna","id":"1729"}
+{
+  "type": "cable",
+  "rfs": "April 2005",
+  "length": "634 km",
+  "owners": "Regione Sardegne,  Interoute,  Wind,  Tiscali",
+  "description": [
+    {
+      "id": 3162,
+      "name": "Cagliari, Italy",
+      "latitude": 39.215367,
+      "longitude": 9.109404
+    },
+    {
+      "id": 7751,
+      "name": "Civitavecchia, Italy",
+      "latitude": 42.091146,
+      "longitude": 11.796857
+    },
+    {
+      "id": 3215,
+      "name": "Mazara del Vallo, Italy",
+      "latitude": 37.650037,
+      "longitude": 12.591318
+    },
+    {
+      "id": 8592,
+      "name": "Olbia, Italy",
+      "latitude": 40.922544,
+      "longitude": 9.486858
+    }
+  ],
+  "url": "n.a.",
+  "notes": null,
+  "name": "Janna",
+  "id": "1729"
+}
