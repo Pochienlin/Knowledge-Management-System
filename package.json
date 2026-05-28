@@ -10,7 +10,10 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "watch": "tsc -w",
-    "lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts",
+    "kms:create-type": "tsx src/scripts/createType.ts",
+    "kms:infer": "tsx src/scripts/inferSchemas.ts",
+    "kms:rebuild": "tsx src/scripts/rebuild.ts"
   },
   "keywords": [
     "graphql",

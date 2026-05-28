@@ -3,6 +3,7 @@ import path from 'path';
 import YAML from 'yaml';
 import { buildKmsId } from '../core/identity.js';
 import type { FieldDefinition } from '../schema/resolverSchema.js';
+import { shouldIgnorePath } from '../dataInference/shouldIgnorePath.js';
 
 export type SchemaDefinition = {
   type: string;
@@ -62,6 +63,8 @@ export async function scanDatasource(rootDir: string): Promise<ScanResult> {
 
     // 2. Process files in directory
     for (const entry of entries) {
+      if (shouldIgnorePath(entry)) continue;
+      
       const fullPath = path.join(dir, entry);
       const stat = await fs.stat(fullPath);
 

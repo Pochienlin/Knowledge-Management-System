@@ -13,6 +13,10 @@ export type FieldDefinition = {
   key?: string;
 };
 
+function normalizeTypeName(name: string) {
+  return name.replace(/[^a-zA-Z0-9_]/g, "_");
+}
+
 export function resolveSchemas(
   schemas: Map<string, SchemaDefinition>
 ): Map<string, ResolvedSchema> {
@@ -47,7 +51,7 @@ export function resolveSchemas(
     };
 
     const finalSchema: ResolvedSchema = {
-        type: schema.type,
+        type: normalizeTypeName(schema.type),
         fields: mergedFields,
         directory: schema.directory,
         ...(schema.extends ? { extends: schema.extends } : {})

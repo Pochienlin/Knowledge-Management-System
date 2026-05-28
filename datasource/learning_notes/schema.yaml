@@ -1,0 +1,26 @@
+type: learning_notes
+fields:
+  id:
+    type: string
+    optional: false
+  tags:
+    type: string
+    optional: false
+  created:
+    type: string
+    optional: false
+  links:
+    type: string
+    optional: false
+  source:
+    type: string
+    optional: false
+  location:
+    type: string
+    optional: false
+  content:
+    type: string
+    optional: false
+  aliases:
+    type: string
+    optional: true

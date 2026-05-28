@@ -1,5 +1,4 @@
 type: SubseaCable
-
 fields:
   name: string
   rfs: string
@@ -7,7 +6,6 @@ fields:
   owners: string
   url: string
   notes: string
-
   description:
     type: LandingPoint
     array: true
